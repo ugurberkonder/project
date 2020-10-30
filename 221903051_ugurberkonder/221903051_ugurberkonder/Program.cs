@@ -7,6 +7,7 @@ namespace _221903051_ugurberkonder
         static void Main(string[] args)
         {
             Console.WriteLine("GitHub deneme");
+            Console.WriteLine("GitHub deneme");
         }
     }
 }
